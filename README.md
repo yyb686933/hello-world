@@ -1,5 +1,5 @@
 # hello-world
-just a new repository
+just a brand new repository version 2.0
 
 Hi Humans!
 
